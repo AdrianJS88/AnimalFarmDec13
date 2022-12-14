@@ -10,6 +10,7 @@ public class AnimalYard {
         animalSetInTheYard[3]= new Cow();
         animalSetInTheYard[4]= new Cow();
         animalSetInTheYard[5]= new Horse();
+        animalSetInTheYard[6]= new Pig();
 
     }
 

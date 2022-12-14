@@ -4,11 +4,11 @@ public class Horse extends Animal {
     public void sound() {
 
     System.out.println("horse sound");
-    SoundOfAnimals.soundOfAnimal("horse.mp3");
+    SoundOfAnimals.soundOfAnimal("Horse-Angry-Neigh-And-Breathing-www.fesliyanstudios.com.mp3");
 }
 
     @Override
     public void move() {
-        System.out.println("horse se misca  ");
+        System.out.println("horse se misca diferit de caine si pisica  ");
     }
 }
